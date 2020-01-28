@@ -1,0 +1,10 @@
+sandbox.deliveroo.com.sg
+staging.deliveroo.com.sg
+deliveroo.com.sg
+careers.deliveroo.com.sg
+www.deliveroo.com.sg
+foodscene.deliveroo.com.sg
+cdn0.deliveroo.com.sg
+rider.deliveroo.com.sg
+test.deliveroo.com.sg
+cdn1.deliveroo.com.sg

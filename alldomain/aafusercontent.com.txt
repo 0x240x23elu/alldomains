@@ -1,0 +1,11 @@
+files.platform.hackerone.aafusercontent.com
+files.platform.dev.aafusercontent.com
+files.platform.test.aafusercontent.com
+images.staging.aafusercontent.com
+files.platform.aafusercontent.com
+files.platform.staging.aafusercontent.com
+images.aafusercontent.com
+images.dev.aafusercontent.com
+images.hackerone.aafusercontent.com
+images.test.aafusercontent.com
+www.aafusercontent.com

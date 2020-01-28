@@ -1,0 +1,12 @@
+e2e1-mein.norma-mobil.de
+e2e2-shop.norma-mobil.de
+test-mein.norma-mobil.de
+e2e2-mein.norma-mobil.de
+ref-mein.norma-mobil.de
+e2e1-shop.norma-mobil.de
+mein.norma-mobil.de
+konto.norma-mobil.de
+www.norma-mobil.de
+www.konto.norma-mobil.de
+norma-mobil.de
+mubasher.norma-mobil.de

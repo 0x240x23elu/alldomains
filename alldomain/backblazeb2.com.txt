@@ -1,0 +1,14 @@
+f002.backblazeb2.com
+api000.backblazeb2.com
+f000.backblazeb2.com
+f001.backblazeb2.com
+api.backblazeb2.com
+api002.backblazeb2.com
+api001.backblazeb2.com
+www.backblazeb2.com
+s3.us-west-100.backblazeb2.com
+api003.backblazeb2.com
+f003.backblazeb2.com
+backblazeb2.com
+%20f001.backblazeb2.com
+ f001.backblazeb2.com

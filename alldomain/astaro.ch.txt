@@ -1,0 +1,4 @@
+www.astaro.ch
+astaro.ch
+hostmaster.astaro.ch
+autodiscover.astaro.ch

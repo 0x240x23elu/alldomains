@@ -1,0 +1,8 @@
+aetkasmart.de
+e2e2-mein.aetkasmart.de
+e2e1-mein.aetkasmart.de
+mein.aetkasmart.de
+ref-mein.aetkasmart.de
+test-mein.aetkasmart.de
+www.aetkasmart.de
+login.aetkasmart.de

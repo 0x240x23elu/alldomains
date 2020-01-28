@@ -1,0 +1,15 @@
+soporte.buda.com
+pay.buda.com
+realtime.buda.com
+realtime.stg.buda.com
+buda.com
+www.buda.com
+status.buda.com
+new.buda.com
+paystg.buda.com
+stg.buda.com
+realtimestg.buda.com
+api.buda.com
+blog.buda.com
+hooks.buda.com
+hooksstg.buda.com

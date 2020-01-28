@@ -1,0 +1,8 @@
+www.server.grammarly.ai
+www.grammarly.ai
+server.grammarly.ai
+ns1.grammarly.ai
+ftp.grammarly.ai
+ns2.grammarly.ai
+mail.grammarly.ai
+dnsadmin.server.grammarly.ai

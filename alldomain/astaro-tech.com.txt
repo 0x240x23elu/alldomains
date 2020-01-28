@@ -1,0 +1,4 @@
+mail.astaro-tech.com
+www.astaro-tech.com
+hostmaster.astaro-tech.com
+astaro-tech.com

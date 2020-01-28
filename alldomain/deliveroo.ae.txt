@@ -1,0 +1,14 @@
+www.deliveroo.ae
+cdn0.deliveroo.ae
+sandbox.deliveroo.ae
+staging.deliveroo.ae
+deliveroo.ae
+test.deliveroo.ae
+foodscene.deliveroo.ae
+careers.deliveroo.ae
+test-cdn1.deliveroo.ae
+corporatecompetition.deliveroo.ae
+cdn1.deliveroo.ae
+blog.deliveroo.ae
+admin.deliveroo.ae
+demo.deliveroo.ae

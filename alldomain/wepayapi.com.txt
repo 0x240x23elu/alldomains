@@ -1,0 +1,6 @@
+stage.wepayapi.com
+www.wepayapi.com
+wepayapi.com
+www.stage.wepayapi.com
+canary.wepayapi.com
+stage2.wepayapi.com

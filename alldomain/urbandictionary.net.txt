@@ -1,0 +1,7 @@
+www.urbandictionary.net
+internal.c1.k8s.urbandictionary.net
+k8s.urbandictionary.net
+api.c1.k8s.urbandictionary.net
+api.internal.c1.k8s.urbandictionary.net
+c1.k8s.urbandictionary.net
+urbandictionary.net

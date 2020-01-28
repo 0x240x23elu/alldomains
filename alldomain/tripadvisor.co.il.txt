@@ -1,0 +1,8 @@
+hare.tripadvisor.co.il
+www.tripadvisor.co.il
+ext.tripadvisor.co.il
+flights.tripadvisor.co.il
+blog.tripadvisor.co.il
+help.tripadvisor.co.il
+green.tripadvisor.co.il
+u002fwww.tripadvisor.co.il

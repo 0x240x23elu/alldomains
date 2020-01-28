@@ -1,0 +1,9 @@
+ext.tripadvisor.com.ph
+hare.tripadvisor.com.ph
+www.tripadvisor.com.ph
+flights.tripadvisor.com.ph
+advert.ext.tripadvisor.com.ph
+blog.tripadvisor.com.ph
+green.tripadvisor.com.ph
+help.tripadvisor.com.ph
+u002fwww.tripadvisor.com.ph

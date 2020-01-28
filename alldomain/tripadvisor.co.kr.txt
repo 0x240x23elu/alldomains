@@ -1,0 +1,12 @@
+flights.tripadvisor.co.kr
+samsung.tripadvisor.co.kr
+hare.tripadvisor.co.kr
+svakil-dev.tripadvisor.co.kr
+www.tripadvisor.co.kr
+nokiamaps.tripadvisor.co.kr
+ext.tripadvisor.co.kr
+hcom.tripadvisor.co.kr
+help.tripadvisor.co.kr
+green.tripadvisor.co.kr
+blog.tripadvisor.co.kr
+u002fwww.tripadvisor.co.kr

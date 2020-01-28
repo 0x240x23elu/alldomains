@@ -1,0 +1,12 @@
+staging.deliveroo.hk
+sandbox.deliveroo.hk
+deliveroo.hk
+www.deliveroo.hk
+cdn0.deliveroo.hk
+test.deliveroo.hk
+careers.deliveroo.hk
+foodscene.deliveroo.hk
+rider.deliveroo.hk
+blog.deliveroo.hk
+rider-staging.deliveroo.hk
+cdn1.deliveroo.hk

@@ -1,0 +1,4 @@
+astaro.org
+www.astaro.org
+autodiscover.astaro.org
+hostmaster.astaro.org

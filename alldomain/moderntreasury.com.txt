@@ -1,0 +1,12 @@
+updates.moderntreasury.com
+demo.webhooks.moderntreasury.com
+webhooks.moderntreasury.com
+auth.moderntreasury.com
+demo.moderntreasury.com
+status.moderntreasury.com
+app.moderntreasury.com
+docs.moderntreasury.com
+help.moderntreasury.com
+www.moderntreasury.com
+ledgersync-dev.moderntreasury.com
+crl.moderntreasury.com

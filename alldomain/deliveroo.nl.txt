@@ -1,0 +1,15 @@
+foodscene.deliveroo.nl
+careers.deliveroo.nl
+packaging.deliveroo.nl
+www.deliveroo.nl
+rider.deliveroo.nl
+verpakkingen.deliveroo.nl
+sandbox.deliveroo.nl
+staging.deliveroo.nl
+deliveroo.nl
+cdn3.deliveroo.nl
+test.deliveroo.nl
+cdn1.deliveroo.nl
+kerstlunch.deliveroo.nl
+blog.deliveroo.nl
+test-cdn0.deliveroo.nl

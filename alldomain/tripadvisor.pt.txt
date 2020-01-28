@@ -1,0 +1,4 @@
+www.tripadvisor.pt
+hare.tripadvisor.pt
+flights.tripadvisor.pt
+help.tripadvisor.pt

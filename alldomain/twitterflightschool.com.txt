@@ -1,0 +1,7 @@
+www.twitterflightschool.com
+dev.twitterflightschool.com
+static.twitterflightschool.com
+origin.twitterflightschool.com
+stg.twitterflightschool.com
+learning-locker.twitterflightschool.com
+moodle.twitterflightschool.com

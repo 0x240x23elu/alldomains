@@ -1,0 +1,9 @@
+deliveroo-data-test.io
+kibana-canoe-staging.deliveroo-data-test.io
+www.deliveroo-data-test.io
+traffic.deliveroo-data-test.io
+integration.deliveroo-data-test.io
+canoe-staging-k8s.deliveroo-data-test.io
+internal.canoe-staging-k8s.deliveroo-data-test.io
+api.canoe-staging-k8s.deliveroo-data-test.io
+api.internal.canoe-staging-k8s.deliveroo-data-test.io

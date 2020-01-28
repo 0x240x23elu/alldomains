@@ -1,0 +1,4 @@
+certsynonprod.com
+auth.certsynonprod.com
+candidate-ui-staging.certsynonprod.com
+www.certsynonprod.com

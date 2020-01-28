@@ -1,0 +1,12 @@
+m.alibabaplanet.com
+h.alibabaplanet.com
+acs.alibabaplanet.com
+alibabaplanet.com
+api.alibabaplanet.com
+sso.alibabaplanet.com
+login.alibabaplanet.com
+www.alibabaplanet.com
+cms.alibabaplanet.com
+act.alibabaplanet.com
+weex.alibabaplanet.com
+daily.weex.alibabaplanet.com

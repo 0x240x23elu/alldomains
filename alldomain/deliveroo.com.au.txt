@@ -1,0 +1,9 @@
+foodscene.deliveroo.com.au
+rider.deliveroo.com.au
+careers.deliveroo.com.au
+www.deliveroo.com.au
+cdn1.deliveroo.com.au
+test.deliveroo.com.au
+sandbox.deliveroo.com.au
+staging.deliveroo.com.au
+deliveroo.com.au

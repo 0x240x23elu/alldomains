@@ -1,0 +1,7 @@
+hare.tripadvisor.at
+ext.tripadvisor.at
+www.tripadvisor.at
+flights.tripadvisor.at
+green.tripadvisor.at
+blog.tripadvisor.at
+help.tripadvisor.at

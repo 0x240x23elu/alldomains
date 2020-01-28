@@ -1,0 +1,13 @@
+www.astaro.net
+eu.logmgmt.astaro.net
+pt.astaro.net
+dev.archive.astaro.net
+us.archive.astaro.net
+eu.archive.astaro.net
+minimaskin.astaro.net
+archive.astaro.net
+logmgmt.astaro.net
+autodiscover.astaro.net
+mx.archive.astaro.net
+hostmaster.astaro.net
+astaro.net

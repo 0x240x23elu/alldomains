@@ -1,0 +1,17 @@
+cf-test.paypalobjects.com
+active-www.paypalobjects.com
+slc-b-origin-www.paypalobjects.com
+phx-origin-www.paypalobjects.com
+origin-www.paypalobjects.com
+content.paypalobjects.com
+www.paypalobjects.com
+fastly.paypalobjects.com
+localhost.paypalobjects.com
+slc-a-origin-www.paypalobjects.com
+www3.paypalobjects.com
+www1.paypalobjects.com
+www2.paypalobjects.com
+paypalobjects.com
+www.sandbox.paypalobjects.com
+sandbox.paypalobjects.com
+n.paypalobjects.com

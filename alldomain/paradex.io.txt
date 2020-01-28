@@ -1,0 +1,8 @@
+www.paradex.io
+paradex.io
+app.paradex.io
+assets.paradex.io
+parity.paradex.io
+api.paradex.io
+kovan.paradex.io
+developers.paradex.io

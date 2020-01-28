@@ -1,0 +1,6 @@
+flights.tripadvisor.cz
+ext.tripadvisor.cz
+www.tripadvisor.cz
+hare.tripadvisor.cz
+help.tripadvisor.cz
+u002fwww.tripadvisor.cz

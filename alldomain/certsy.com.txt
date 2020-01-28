@@ -1,0 +1,7 @@
+candidate-ui-prod.certsy.com
+auth.certsy.com
+help.certsy.com
+www.certsy.com
+certsy.com
+admin.certsy.com
+rtw-poc.certsy.com

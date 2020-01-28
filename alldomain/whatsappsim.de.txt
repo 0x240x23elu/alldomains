@@ -1,0 +1,12 @@
+www.whatsappsim.de
+test-kundenportal.whatsappsim.de
+e2e2-shop.whatsappsim.de
+e2e1-kundenportal.whatsappsim.de
+whatsappsim.de
+kundenportal.whatsappsim.de
+pvn.whatsappsim.de
+e2e1-shop.whatsappsim.de
+ref-kundenportal.whatsappsim.de
+e2e2-kundenportal.whatsappsim.de
+apps.whatsappsim.de
+login.whatsappsim.de

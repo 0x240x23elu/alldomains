@@ -1,0 +1,10 @@
+ext.tripadvisor.com.eg
+flights.tripadvisor.com.eg
+svakil-dev.tripadvisor.com.eg
+hare.tripadvisor.com.eg
+www.tripadvisor.com.eg
+help.tripadvisor.com.eg
+blog.tripadvisor.com.eg
+green.tripadvisor.com.eg
+tripadvisor.com.eg
+u002fwww.tripadvisor.com.eg

@@ -1,0 +1,12 @@
+ext.tripadvisor.co.id
+flights.tripadvisor.co.id
+samsung.tripadvisor.co.id
+www.tripadvisor.co.id
+nokiamaps.tripadvisor.co.id
+hare.tripadvisor.co.id
+svakil-dev.tripadvisor.co.id
+tripwow.tripadvisor.co.id
+help.tripadvisor.co.id
+blog.tripadvisor.co.id
+green.tripadvisor.co.id
+u002fwww.tripadvisor.co.id

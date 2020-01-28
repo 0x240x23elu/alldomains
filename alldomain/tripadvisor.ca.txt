@@ -1,0 +1,16 @@
+green.tripadvisor.ca
+svakil-dev.tripadvisor.ca
+accor.tripadvisor.ca
+hare-fr.tripadvisor.ca
+hare.tripadvisor.ca
+www.tripadvisor.ca
+nokiamaps.tripadvisor.ca
+samsung.tripadvisor.ca
+cr.tripadvisor.ca
+ext.tripadvisor.ca
+flights-fr.tripadvisor.ca
+flights.tripadvisor.ca
+fr.tripadvisor.ca
+blog.tripadvisor.ca
+help.tripadvisor.ca
+u002fwww.tripadvisor.ca

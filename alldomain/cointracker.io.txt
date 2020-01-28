@@ -1,0 +1,11 @@
+blog.cointracker.io
+www.cointracker.io
+blog.ghost.cointracker.io
+get.cointracker.io
+cointracker.io
+community.cointracker.io
+staging.cointracker.io
+o1.ptr8365.cointracker.io
+mg.cointracker.io
+help.cointracker.io
+links.cointracker.io

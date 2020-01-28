@@ -1,0 +1,6 @@
+hare.tripadvisor.cl
+flights.tripadvisor.cl
+www.tripadvisor.cl
+green.tripadvisor.cl
+ext.tripadvisor.cl
+u002fwww.tripadvisor.cl

@@ -1,0 +1,11 @@
+permissions.alditalk-kundenbetreuung.de
+www.alditalk-kundenbetreuung.de
+www.permissions.alditalk-kundenbetreuung.de
+login.alditalk-kundenbetreuung.de
+apps.alditalk-kundenbetreuung.de
+e2e1.alditalk-kundenbetreuung.de
+e2e2.alditalk-kundenbetreuung.de
+ref.alditalk-kundenbetreuung.de
+test.alditalk-kundenbetreuung.de
+alditalk-kundenbetreuung.de
+powerschool.alditalk-kundenbetreuung.de

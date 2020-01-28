@@ -1,0 +1,8 @@
+localhost.paypal.me
+donate.paypal.me
+vote.paypal.me
+s.paypal.me
+www.paypal.me
+massachusetts.paypal.me
+paypal.me
+qa.paypal.me

@@ -1,0 +1,9 @@
+ext.tripadvisor.co.nz
+flights.tripadvisor.co.nz
+green.tripadvisor.co.nz
+hare.tripadvisor.co.nz
+www.tripadvisor.co.nz
+help.tripadvisor.co.nz
+blog.tripadvisor.co.nz
+advert.ext.tripadvisor.co.nz
+u002fwww.tripadvisor.co.nz

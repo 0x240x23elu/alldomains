@@ -1,0 +1,15 @@
+prod-vip.ln.vendor.marcus.co.uk
+akastg.api.marcus.co.uk
+akastg.vendor.marcus.co.uk
+akastg.www.marcus.co.uk
+uat-vip.ln.savingsb.marcus.co.uk
+vendor.marcus.co.uk
+v.marcus.co.uk
+api.marcus.co.uk
+prod-vip.ln.b2bsavings.marcus.co.uk
+prod-vip.ln.savingsa.marcus.co.uk
+prod-vip.ln.savingsb.marcus.co.uk
+www.marcus.co.uk
+mail.marcus.co.uk
+marcus.co.uk
+ln.b2bsavings.marcus.co.uk

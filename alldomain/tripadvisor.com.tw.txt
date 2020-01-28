@@ -1,0 +1,11 @@
+nokiamaps.tripadvisor.com.tw
+hare.tripadvisor.com.tw
+svakil-dev.tripadvisor.com.tw
+www.tripadvisor.com.tw
+ext.tripadvisor.com.tw
+flights.tripadvisor.com.tw
+samsung.tripadvisor.com.tw
+help.tripadvisor.com.tw
+blog.tripadvisor.com.tw
+green.tripadvisor.com.tw
+u002fwww.tripadvisor.com.tw

@@ -1,0 +1,12 @@
+sandbox.deliveroo.ie
+staging.deliveroo.ie
+deliveroo.ie
+foodscene.deliveroo.ie
+rider.deliveroo.ie
+careers.deliveroo.ie
+www.deliveroo.ie
+demo.deliveroo.ie
+cdn1.deliveroo.ie
+cdn0.deliveroo.ie
+test.deliveroo.ie
+blog.deliveroo.ie

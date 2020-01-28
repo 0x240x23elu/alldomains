@@ -1,0 +1,8 @@
+ext.tripadvisor.co.za
+flights.tripadvisor.co.za
+hare.tripadvisor.co.za
+www.tripadvisor.co.za
+help.tripadvisor.co.za
+green.tripadvisor.co.za
+blog.tripadvisor.co.za
+u002fwww.tripadvisor.co.za

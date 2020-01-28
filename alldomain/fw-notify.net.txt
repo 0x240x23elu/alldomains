@@ -1,0 +1,12 @@
+fetcher.fw-notify.net
+deadmail.fw-notify.net
+passthrough.fw-notify.net
+www.passthrough.fw-notify.net
+www.fw-notify.net
+up2date3.fw-notify.net
+do-not-reply.fw-notify.net
+hostmaster.fw-notify.net
+passthrough6.fw-notify.net
+up2date2.fw-notify.net
+up2date1.fw-notify.net
+assthrough.fw-notify.net
