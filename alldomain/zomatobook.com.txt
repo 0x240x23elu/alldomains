@@ -1,0 +1,13 @@
+services.zomatobook.com
+www.zomatobook.com
+api.zomatobook.com
+email.email.zomatobook.com
+get.zomatobook.com
+api-test.zomatobook.com
+api-dev.zomatobook.com
+p2.zomatobook.com
+test.zomatobook.com
+support.zomatobook.com
+email.zomatobook.com
+codereview.zomatobook.com
+zomatobook.com

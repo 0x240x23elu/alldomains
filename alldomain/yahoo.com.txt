@@ -24594,16 +24594,3 @@ st74.yahoo.com
 stage-ccpa-service-internal.yahoo.com
 test.home.schen07.stage.yahoo.com
 taoapp.yahoo.com
-kr.img.titan.yahoo.com
-tool.cc.tpe.yahoo.com
-mstr-web.eds.vip.corp.tw1.yahoo.com
-splunk-deployers.vzn.yahoo.com
-safe.p7.webhosting.yahoo.com
-safe.p10.webhosting.yahoo.com
-safe.p6.webhosting.yahoo.com
-safe.p.webhosting.yahoo.com
-yampreporting.yahoo.com
-neptune-elb.yk.yahoo.com
-art.ysm.yahoo.com
-smile.ysm.yahoo.com
-adhoc.smile.ysm.yahoo.com
