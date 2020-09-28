@@ -1,0 +1,13 @@
+
+8x8e2e.com
+contactapp.8x8e2e.com
+Could not grab subdomains: Error: connect ECONNREFUSED 52.3.220.208:443
+*.e2e.chalet.8x8e2e.com
+e2e.chalet.8x8e2e.com
+*.global-e2e.chalet.8x8e2e.com
+global-e2e.chalet.8x8e2e.com
+ns1.8x8e2e.com
+ns2.8x8e2e.com
+platform.8x8e2e.com
+sso.8x8e2e.com
+www.8x8e2e.com

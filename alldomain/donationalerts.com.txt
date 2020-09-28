@@ -1,0 +1,13 @@
+
+api-awards.donationalerts.com
+api-bot.donationalerts.com
+auth.donationalerts.com
+awards.donationalerts.com
+centrifugo.donationalerts.com
+chat.donationalerts.com
+Could not grab subdomains: Error: Request failed with status code 500
+donationalerts.com
+images-awards.donationalerts.com
+sentry.donationalerts.com
+static.donationalerts.com
+www.donationalerts.com

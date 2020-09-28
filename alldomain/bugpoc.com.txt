@@ -1,0 +1,9 @@
+
+20.bugpoc.com
+api.bugpoc.com
+bugpoc.com
+Could not grab subdomains: Error: connect ECONNREFUSED 52.3.220.208:443
+docker.bugpoc.com
+offers.united.com.bugpoc.com
+poc-docker-images.bugpoc.com
+www.bugpoc.com
