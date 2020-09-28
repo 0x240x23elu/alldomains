@@ -1,0 +1,6 @@
+
+Could not grab subdomains: Error: Request failed with status code 500
+ftp.sneaindia.com
+mail.sneaindia.com
+sneaindia.com
+www.sneaindia.com

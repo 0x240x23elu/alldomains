@@ -1,0 +1,24 @@
+
+auth.donationalerts.ru
+Could not grab subdomains: Error: Request failed with status code 500
+dev.donationalerts.ru
+donationalerts.ru
+money.donationalerts.ru
+socket10.donationalerts.ru
+socket11.donationalerts.ru
+socket12.donationalerts.ru
+socket1.donationalerts.ru
+socket2.donationalerts.ru
+socket3.donationalerts.ru
+socket4.donationalerts.ru
+socket5.donationalerts.ru
+socket6.donationalerts.ru
+socket7.donationalerts.ru
+socket8.donationalerts.ru
+socket9.donationalerts.ru
+socket.donationalerts.ru
+static.donationalerts.ru
+vk.youtube.app.donationalerts.ru
+www.donationalerts.ru
+www.money.donationalerts.ru
+www.socket.donationalerts.ru

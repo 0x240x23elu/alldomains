@@ -1,0 +1,21 @@
+
+api.statushero.com
+app.statushero.com
+assets0.statushero.com
+assets1.statushero.com
+assets2.statushero.com
+assets3.statushero.com
+blog.statushero.com
+bounces.statushero.com
+Could not grab subdomains: Error: connect ECONNREFUSED 52.3.220.208:443
+delivery.statushero.com
+help.statushero.com
+leadingsoftwarepeople.statushero.com
+o1.delivery.statushero.com
+personal.statushero.com
+service.statushero.com
+statushero.com
+status.statushero.com
+wombat.statushero.com
+www.blog.statushero.com
+www.statushero.com

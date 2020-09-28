@@ -1,0 +1,25 @@
+
+assets.winni.in
+asset.winni.in
+beta.winni.in
+blog.winni.in
+cdn.winni.in
+Could not grab subdomains: Error: Request failed with status code 500
+cust.winni.in
+dmxalb.winni.in
+eimg.winni.in
+gstatic.winni.in
+mailer.winni.in
+mn.winni.in
+ncd.winni.in
+panela.winni.in
+pic.winni.in
+st.winni.in
+technologytru.winni.in
+technology.winni.in
+usub.winni.in
+vendor.winni.in
+vst.winni.in
+winni.in
+wmail.winni.in
+www.winni.in
